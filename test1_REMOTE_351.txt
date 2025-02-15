@@ -2,4 +2,5 @@ abcd
 1234
 add func1
 add func2
-code 1
+code1
+code2
